@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... You just did!
 - 😄 Pronouns: ... She
-- ⚡ Fun fact: ... I Love  
+- ⚡ Fun fact: ... I Love coding!
 -->
