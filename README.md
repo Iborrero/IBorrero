@@ -1,4 +1,4 @@
-### Here is what I'm working on! 👋
+### About me 👋
 
 - 🔭 I’m currently working on ... Oracle Cloud Infrastructure, APEX
 - 🌱 I’m currently learning ... How to become a Data Engineer 
